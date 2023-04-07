@@ -1,1 +1,1 @@
-# Swathi-SQL-
+Select DISTINCT category from products;
